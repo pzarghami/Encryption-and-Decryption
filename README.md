@@ -5,8 +5,8 @@ The purpose of this exercise is to familiarize you with standard input/output, w
 Stream encryption is used to encrypt a stream of characters in this project.
 
 **Program input**
-,,,
+```
 hi
-,,,
+```
 
 
